@@ -16,4 +16,3 @@ Let's talk about myself a little!
   ## Birthday joke
   Feel have nothing to say when someone have a birthday?[Let's get some joke!](https://www.rd.com/jokes/birthday/)
 
-  *__Not done yet__*
